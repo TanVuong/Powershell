@@ -1,0 +1,9 @@
+D:\HocKy_5\PhatTrienUngDung\DoAn\sln_LayDSIP\frm_LayDanhSachIP\bin\Debug\frm_LayDanhSachIP.exe.config
+D:\HocKy_5\PhatTrienUngDung\DoAn\sln_LayDSIP\frm_LayDanhSachIP\bin\Debug\frm_LayDanhSachIP.exe
+D:\HocKy_5\PhatTrienUngDung\DoAn\sln_LayDSIP\frm_LayDanhSachIP\bin\Debug\frm_LayDanhSachIP.pdb
+D:\HocKy_5\PhatTrienUngDung\DoAn\sln_LayDSIP\frm_LayDanhSachIP\obj\Debug\frm_LayDanhSachIP.Properties.Resources.resources
+D:\HocKy_5\PhatTrienUngDung\DoAn\sln_LayDSIP\frm_LayDanhSachIP\obj\Debug\frm_LayDanhSachIP.csproj.GenerateResource.Cache
+D:\HocKy_5\PhatTrienUngDung\DoAn\sln_LayDSIP\frm_LayDanhSachIP\obj\Debug\frm_LayDanhSachIP.exe
+D:\HocKy_5\PhatTrienUngDung\DoAn\sln_LayDSIP\frm_LayDanhSachIP\obj\Debug\frm_LayDanhSachIP.pdb
+D:\HocKy_5\PhatTrienUngDung\DoAn\sln_LayDSIP\frm_LayDanhSachIP\bin\Debug\System.Management.Automation.dll
+D:\HocKy_5\PhatTrienUngDung\DoAn\sln_LayDSIP\frm_LayDanhSachIP\obj\Debug\frm_LayDanhSachIP.Form1.resources
