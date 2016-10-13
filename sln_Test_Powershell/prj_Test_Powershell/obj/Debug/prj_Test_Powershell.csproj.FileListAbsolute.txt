@@ -1,0 +1,7 @@
+D:\HocKy_5\PhatTrienUngDung\Visual\sln_Test_Powershell\prj_Test_Powershell\bin\Debug\prj_Test_Powershell.exe.config
+D:\HocKy_5\PhatTrienUngDung\Visual\sln_Test_Powershell\prj_Test_Powershell\bin\Debug\prj_Test_Powershell.exe
+D:\HocKy_5\PhatTrienUngDung\Visual\sln_Test_Powershell\prj_Test_Powershell\bin\Debug\prj_Test_Powershell.pdb
+D:\HocKy_5\PhatTrienUngDung\Visual\sln_Test_Powershell\prj_Test_Powershell\bin\Debug\System.Management.Automation.dll
+D:\HocKy_5\PhatTrienUngDung\Visual\sln_Test_Powershell\prj_Test_Powershell\obj\Debug\prj_Test_Powershell.csprojResolveAssemblyReference.cache
+D:\HocKy_5\PhatTrienUngDung\Visual\sln_Test_Powershell\prj_Test_Powershell\obj\Debug\prj_Test_Powershell.exe
+D:\HocKy_5\PhatTrienUngDung\Visual\sln_Test_Powershell\prj_Test_Powershell\obj\Debug\prj_Test_Powershell.pdb
